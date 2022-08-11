@@ -49,6 +49,8 @@ dependencies:
   flutter_secure_storage: ^5.1.0
   provider: ^5.0.0
 
+  shared_preferences: ^2.0.15
+
   toggle_bar: ^1.0.0
   toggle_switch: ^2.0.1
 
