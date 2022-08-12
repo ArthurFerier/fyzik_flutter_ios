@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>536368021772-58mm37oj0dkebj8p722tkfqb630oec9n.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.536368021772-58mm37oj0dkebj8p722tkfqb630oec9n</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBFUTihZhCC7MpsODQX9_p2e0m_Paxnmy0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>536368021772</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.stimulUs.Fyzik-flutter</string>
+	<key>PROJECT_ID</key>
+	<string>fyzik-b8655</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fyzik-b8655.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:536368021772:ios:ab760a14fd9a0257d1c929</string>
+</dict>
+</plist>
